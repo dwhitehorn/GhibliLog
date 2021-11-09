@@ -1,2 +1,9 @@
 # GhibliLog
- 
+
+### About:
+- I wanted to test my ability to create an application with a responsive SwiftUI interface that would format and display data pulled from a JSON file. GhibliLog is an application that displays a catalogue of movies that can be browsed along with a detailView with relevant details for each film. 
+
+
+### Resources:
+- GhibliLog uses JSON data pulled from the [Studio Ghibli API](https://ghibliapi.herokuapp.com)
+- Ghiblilog is created in Swift leveraging the SwiftUI and Foundation Libraries
